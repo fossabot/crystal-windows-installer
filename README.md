@@ -16,7 +16,8 @@ This project requires:
 1. [Install Crystal on the Linux Subsystem on Windows 10](https://crystal-lang.org/install/on_wsl/)
 2. Download and execute [crystal-setup-windows-10.exe](https://github.com/faustinoaq/crystal-windows-installer/releases)
 
-![installer](http://i.imgur.com/NJMVrdy.png)
+![installer](http://i.imgur.com/NJMVrdy.png)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystal-windows-installer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystal-windows-installer?ref=badge_shield)
+
 
 ![command](http://i.imgur.com/HonJ4mE.png)
 
@@ -35,3 +36,7 @@ See [Changelog](https://github.com/faustinoaq/crystal-windows-installer/blob/mas
 ## Contributors
 
 - [@faustinoaq](https://github.com/faustinoaq) Faustino Aguilar - creator, maintainer
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystal-windows-installer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystal-windows-installer?ref=badge_large)
